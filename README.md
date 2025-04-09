@@ -3,10 +3,14 @@ A simple and interactive Memory Matching Game built using Salesforce Lightning W
 
 
 Features:-
-Click to flip cards and find matching pairs
-Tracks the number of moves
-Automatically resets unmatched cards
+Click to flip cards and find matching pairs,
+
+Tracks the number of moves,
+
+Automatically resets unmatched cards,
+
 Responsive UI using SLDS and CSS
+
 Demonstrates core LWC concepts like events, loops, and state management
 
 
