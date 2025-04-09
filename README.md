@@ -11,27 +11,18 @@ A simple and interactive **Memory Matching Game** built using **Salesforce Light
 - Demonstrates core LWC concepts (event handling, reactivity, loops)
 
 
-LWC Concepts Used:-
+# 🧩 LWC Concepts Used
 
-for each directive for rendering list of cards
+- `for:each` directive for rendering card list
+- `template if:true` for conditional rendering
+- Event handling with `onclick`
+- JavaScript DOM logic for card flipping
+- Styling with component-specific CSS
+- Reactive property binding
 
-template if true for conditional rendering
+## 🛠️ How to Use
 
-Event handling using onclick
-
-JavaScript logic for managing game state
-
-Styling with component CSS
-
-Reactive property binding in LWC
-
-
-
-How to Use:-
-Create a component named memoryGame in your LWC project
-
-Copy and paste the HTML, JS, and CSS files accordingly
-
-Deploy the component to your scratch org or sandbox
-
-Add the component to a Lightning App Page or Record Page via the Lightning App Builder
+1. Clone or create a component named `memoryGame` in your LWC project.
+2. Paste the provided HTML, JS, and CSS files accordingly.
+3. Deploy to your scratch org or sandbox.
+4. Add the component to a Lightning App Page or Record Page via the Lightning App Builder.
