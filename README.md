@@ -1,4 +1,4 @@
-# 🧠 Memory Game - Lightning Web Component
+# 🧠 Memory Game - Lightning Web Component:
 
 A simple and interactive **Memory Matching Game** built using **Salesforce Lightning Web Components (LWC)**. Test your memory by flipping and matching emoji cards.
 
